@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentin</h1>
 <h3 align="center">A passionate fullstack developer from Munich, Germany</h3>
 
-- 🔭 I’m currently working at [RoyalPixels](https://royalpixels.de)
+- 🔭 I’m currently working at **[RoyalPixels](https://royalpixels.de)**
 
 - 🌱 I’m currently learning **NodeJS, TypeScript**
 
