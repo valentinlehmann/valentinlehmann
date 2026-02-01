@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working at **[RoyalPixels](https://royalpixels.de)**
 
-- 🌱 I’m currently learning **NodeJS, TypeScript**
+- 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, NodeJS, TypeScript**
 
-- 📫 How to reach me **info@valentinlehmann.de**
+- 📫 You can reach me at **info@valentinlehmann.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
